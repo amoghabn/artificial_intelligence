@@ -1,4 +1,4 @@
-# artificial_intelligence
+# Artificial Intelligence
 
 #### Artificial Intelligence (AI) is a multidisciplinary field of computer science that aims to create systems or machines capable of performing tasks that typically require human intelligence. These tasks include learning, reasoning, problem-solving, understanding natural language, perception, and even speech recognition. The overarching goal of AI is to develop intelligent agents that can adapt, improve, and perform autonomously in diverse environments.
 
@@ -35,7 +35,7 @@
 ### The overall goal is to build  a neural network model for cancer diagnosis, and evaluate its performance on unseen test data.
 
 
-## Key Concepts in AI:
+# Key Concepts in AI:
 
 ### Machine Learning (ML):
 
