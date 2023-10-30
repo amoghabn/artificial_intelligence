@@ -4,6 +4,8 @@
 
 ## Project Overview
 
+### The objective is to build a neural network model for cancer diagnosis, and evaluate its performance on unseen test data. The model aims to distinguish between benign and malignant tumors using medical report data obtained from the laboratory. Benign tumors are characterized as non-cancerous, whereas malignant tumors are cancerous.
+
 ### Data Loading:
 
 #### Imports the pandas library and reads a CSV file ('cancer.csv') into a DataFrame.
@@ -32,7 +34,6 @@
 
 #### Evaluates the trained model on the testing data using the evaluate method, printing the results. This typically includes metrics like loss and accuracy.
 
-### The overall goal is to build  a neural network model for cancer diagnosis, and evaluate its performance on unseen test data.
 
 
 # Key Concepts in AI:
