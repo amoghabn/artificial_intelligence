@@ -1,4 +1,4 @@
-# Artificial Intelligence
+# Artificial Intelligence | Cancer Diagnosis
 
 #### Artificial Intelligence (AI) is a multidisciplinary field of computer science that aims to create systems or machines capable of performing tasks that typically require human intelligence. These tasks include learning, reasoning, problem-solving, understanding natural language, perception, and even speech recognition. The overarching goal of AI is to develop intelligent agents that can adapt, improve, and perform autonomously in diverse environments.
 
