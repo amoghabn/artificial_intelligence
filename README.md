@@ -12,7 +12,7 @@
 
 ### Data Preprocessing:
 
-#### Separates the features (denoted as x) and the target variable (denoted as y) from the dataset.
+#### Separates the features and the target variable from the dataset.
 
 ### Train-Test Split:
 
